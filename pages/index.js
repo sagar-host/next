@@ -2,7 +2,7 @@
   
   function index() {
     return (
-      <div>hello world  nextjs works on file based routing --static routing</div>
+      <div>hello world  nextjs works on file based routing --dynamic routing</div>
     )
   }
   
